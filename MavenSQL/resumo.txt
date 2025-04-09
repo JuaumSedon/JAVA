@@ -1,1 +1,1 @@
-
+Este projeto representa uma aplicação Java simples integrada a um banco de dados MySQL. Ele tem como objetivo realizar operações básicas de cadastro, como inserir, atualizar e deletar informações em uma tabela do banco. A aplicação simula um sistema de gerenciamento de dados onde é possível registrar pessoas com nome e idade, demonstrando o uso da conexão com o banco, comandos SQL e manipulação de dados diretamente pela linguagem Java. É um exemplo prático de como utilizar JDBC para interagir com bancos relacionais dentro de uma aplicação Java.
