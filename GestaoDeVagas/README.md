@@ -1,6 +1,6 @@
 # Gestão de Vagas – Projeto Spring Boot
 
-Este repositório contém as versões evolutivas do projeto **Gestão de Vagas**, desenvolvido com Java e Spring Boot, como parte dos estudos do curso de Desenvolvimento Web com Spring.
+Este repositório contém as versões evolutivas do projeto **Gestão de Vagas**, desenvolvido com Java e Spring Boot, como parte dos estudos do curso de Java.
 
 Cada versão do projeto está separada em sua respectiva pasta (`v1/`, `v2/`, etc), permitindo acompanhar a evolução da aplicação.
 
@@ -12,6 +12,7 @@ Cada versão do projeto está separada em sua respectiva pasta (`v1/`, `v2/`, et
 
 ## 🚀 Tecnologias utilizadas
 
+- Apidog
 - Java 17
 - Spring Boot
 - Jakarta Validation
